@@ -1,1 +1,2 @@
 # ShenEternity_MusicPlayer
+用Rust写的Tui音乐播放器
